@@ -1,7 +1,5 @@
 # Photomosaics
 
-_by Harrison Eckert_
-
 This program takes a base image, and using a provided directory of images as a tileset, creates a Photomosaic of the base image.
 The image can then be written to a provided output file, as a JPG file[*](#notes-to-tas).
 
