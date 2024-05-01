@@ -46,7 +46,7 @@ In interactive mode, the user is prompted to enter parameters for their Photomos
 
 The program will then process the Photomosaic, write it to the desired output path, and return.
 
-# Notes to TAs
+# Notes
 
 Although the program by default writes the output mosaic as a JPG file, this can be changed by modifying the parameter
 of [calls to `Photomosaic::writeOut()` in main](main.cpp) ([writeOut() defined here](lib/include/Photomosaic.h)). The 
