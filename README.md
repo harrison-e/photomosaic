@@ -1,4 +1,4 @@
-# CS3520 - PA03 - Photomosaics
+# Photomosaics
 
 _by Harrison Eckert_
 
